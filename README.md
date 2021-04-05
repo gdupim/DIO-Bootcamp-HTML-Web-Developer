@@ -2,5 +2,5 @@
 
 Este é o repositório do *bootcamp* da *Digital Innovation One* de **HTML Web Developer**.
 
-Todos os exercícios estarão aqui armazenados e catalogados.
+***Todos os exercícios estarão aqui armazenados e catalogados***.
 
