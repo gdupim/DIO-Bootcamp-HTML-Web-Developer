@@ -46,3 +46,13 @@ a{
     border: 1px solid #505050;
     border-radius: 50%; /*no vídeo está 50px pois a imagem dele é 100px, ou seja, metade para ficar redonda. Porém minha imagem não é 100px e colocando 50% ele também dá o aspecto circular a imagem.*/
 }
+
+.contact_list{
+    /*list-style-type: square; = um jeito de formatar a lista.*/
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a{
+    text-decoration: none;
+}
